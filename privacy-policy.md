@@ -13,11 +13,11 @@ When you access or use our Services, we automatically collect information about 
 
 ### Use Of Information
 We may use information about you for various purposes. A couple examples of this includes:
-•         Identifying bugs in our software or systems
-•         Keeping you updated with your delivery statuses
-•         Processing transactions
-•         Sending support messages or responding to your comments
-•         Carrying out any other purpose for which the information was collected
+* **Identifying bugs in our software or systems**
+* **Keeping you updated with your delivery statuses**
+* **Processing transactions**
+* **Sending support messages or responding to your comments**
+* **Carrying out any other purpose for which the information was collected**
 
 Truckeet is based in the Canada and the information we collect is governed by Canada law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the Canada and other countries.
 
