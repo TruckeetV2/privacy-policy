@@ -9,7 +9,7 @@ If you have any questions about this Privacy Policy, please contact us at help@T
 We collect information you provide directly to us, like your name when you create an account, fill out a form, request a delivery or even apply for a job on our website. 
 ### Information We May Collect When You Use the Service
 When you access or use our Services, we automatically collect information about you, including:
-•  Device Information: We collect information about the device you use to access our Services. This allows us to do things like display buttons and other elements in the app in a way that’s easy to use
+* **Device Information:** We collect information about the device you use to access our Services. This allows us to do things like display buttons and other elements in the app in a way that’s easy to use
 
 ### Use Of Information
 We may use information about you for various purposes. A couple examples of this includes:
