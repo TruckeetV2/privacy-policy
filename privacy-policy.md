@@ -23,19 +23,19 @@ Truckeet is based in the Canada and the information we collect is governed by Ca
 
 ### Sharing Of Information
 We may share aggregated or de-identified information, which cannot reasonably be used to identify you. Also, we may share information about you as follows or as otherwise described in this Privacy Policy:
-•         With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
-•         With third parties for their own services and marketing purposes, unless you opt out of this type of sharing by emailing help@Truckeet.ca;
-•         In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
-•         If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Truckeet or others;
-•         In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
-•         Between and among Truckeet and its parent, subsidiaries and affiliated companies; and
+* With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+* With third parties for their own services and marketing purposes, unless you opt out of this type of sharing by emailing help@Truckeet.ca;
+* In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
+* If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Truckeet or others;
+* In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+* Between and among Truckeet and its parent, subsidiaries and affiliated companies; and
 With your consent or at your direction.
 
 ### Advertising & Analytics Services Provided By Others
 We use services from Google, Facebook and other third party providers to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use technology to collect data. This information may be used by Truckeet and others to, among other things:
-•         Analyze and track data
-•         Determine the popularity of certain content
-•         Deliver advertising and content targeted to your interests on our Services and other websites
+* Analyze and track data
+* Determine the popularity of certain content
+* Deliver advertising and content targeted to your interests on our Services and other websites
 
 ### Security
 Truckeet will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
