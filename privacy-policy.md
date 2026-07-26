@@ -31,11 +31,14 @@ We may share aggregated or de-identified information, which cannot reasonably be
 * Between and among Truckeet and its parent, subsidiaries and affiliated companies; and
 With your consent or at your direction.
 
-### Advertising & Analytics Services Provided By Others
+<!-- ### Advertising & Analytics Services Provided By Others
 We use services from Google, Facebook and other third party providers to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use technology to collect data. This information may be used by Truckeet and others to, among other things:
 * Analyze and track data
 * Determine the popularity of certain content
-* Deliver advertising and content targeted to your interests on our Services and other websites
+* Deliver advertising and content targeted to your interests on our Services and other websites-->
+
+### Analytics
+We use Google Analytics to collect information about how visitors use our site. Google Analytics collects data such as pages visited, time spent on the site, and general location. This data is used to improve our services. For more information on how Google handles this data, visit [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ### Security
 Truckeet will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
