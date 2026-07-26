@@ -38,7 +38,7 @@ We use services from Google, Facebook and other third party providers to serve a
 * Deliver advertising and content targeted to your interests on our Services and other websites-->
 
 ### Analytics
-We use Google Analytics to collect information about how visitors use our site. Google Analytics collects data such as pages visited, time spent on the site, and general location. This data is used to improve our services. For more information on how Google handles this data, visit [Google's Privacy Policy](https://policies.google.com/privacy).
+We may use Google Analytics to collect information about how visitors use our site. Google Analytics collects data such as pages visited, time spent on the site, and general location. This data is used to improve our services. For more information on how Google handles this data, visit [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ### Security
 Truckeet will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
