@@ -1,4 +1,4 @@
-### Privacy
+F### Privacy
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information when you use our website, mobile application and other online products and services (collectively, the “Services”) or when you otherwise interact with us. The following outlines our privacy policy.
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
@@ -10,6 +10,7 @@ We collect information you provide directly to us, like your name when you creat
 ### Information We May Collect When You Use the Service
 When you access or use our Services, we automatically collect information about you, including:
 * **Device Information:** We collect information about the device you use to access our Services. This allows us to do things like display buttons and other elements in the app in a way that’s easy to use
+* **Terms Acceptance Records:** When you accept our terms or complete a booking, we record the date, time, IP address, and the version of the terms in effect at that moment. We keep this record to document your agreement and to help resolve payment or billing disputes."
 
 ### Use Of Information
 We may use information about you for various purposes. A couple examples of this includes:
@@ -51,6 +52,6 @@ You may opt out of receiving promotional mails, push notifications or text messa
 In the future when you first launch any of our mobile applications that collect location information, you will be asked to consent to the application’s collection of this information. We currently require this location information in order to use our Services, so if you do not consent to this collection, you cannot use our Services. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. If you do so, our mobile applications, or certain features thereof, will no longer function. You may also stop our collection of location information by following the standard uninstall process to remove all our mobile applications from your device.
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-**Your Data:** Your can request we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+**Your Data:** Your can request we delete any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes. When you delete your account, your personal details are removed within 30 days. At that point, the pickup and drop-off addresses on your past moves are also reduced to city and province. The remaining move records are kept for invoicing, tax and dispute purposes and are no longer linked to you.
 
 
