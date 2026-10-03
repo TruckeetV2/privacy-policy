@@ -1,4 +1,4 @@
-F### Privacy
+### Privacy
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information when you use our website, mobile application and other online products and services (collectively, the “Services”) or when you otherwise interact with us. The following outlines our privacy policy.
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
