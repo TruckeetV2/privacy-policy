@@ -49,7 +49,7 @@ Truckeet will protect personal information by reasonable security safeguards aga
 You may opt out of receiving promotional mails, push notifications or text messages from Truckeet by following the instructions in those communications or by adjusting the settings on your mobile device. If you opt out, we may still send you non-promotional communications, such as those about your account, products or services you’ve requested or our ongoing business relations.
 
 ### Location Information 
-* **Movers:** When you first launch the Truckeet app, you will be asked to allow location access at all times, including when the app is in the background. Location access is required for movers to use our Services, so if you do not allow it, you cannot Truckeet app without location access. You can turn off location access at any time in your device settings, but you will not be able to use the mover features of the app while it is off.
+* **Movers:** When you first launch the Truckeet app, you will be asked to allow location access at all times, including when the app is in the background. Location access is required for movers to use our Services. If you do not allow it, you cannot Truckeet app. You can turn off location access at any time in your device settings, but you will not be able to use the mover features of the app while it is off.
 * **Customers:** We collect your device's location only if you allow it. The app will ask for your permission, and you can change your choice at any time in your device settings. 
 
 You can also stop all collection of location information by uninstalling the Truckeet app from your device.
